@@ -1,7 +1,6 @@
-# %matplotlib inline 
+# From https://medium.com/@haydar_ai/learning-data-science-day-9-linear-regression-on-boston-housing-dataset-cd62a80775ef
 
-# special matplotlib argument for improved plots
-from matplotlib import rcParams
+from matplotlib import rcParams # special matplotlib argument for improved plots
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas
